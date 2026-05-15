@@ -51,6 +51,11 @@ A backup list of apps/software to not forget...
 
 ## Development & Debugging
 
+- [pkgx]()
+- [bash]()
+- [fish]()
+- [zsh]()
+- [starship]()
 - [Eclipse IDE]()
 - [Gradle]()
 - [Foocus]()
