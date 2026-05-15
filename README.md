@@ -90,6 +90,9 @@ A backup list of apps/software to not forget...
 - [powershell]()
 - [nushell]()
 - [fvm](https://fvm.app/)
+- [virtualbox]()
+- [bun]()
+- [nodejs]()
 
 ## Creative
 
