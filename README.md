@@ -98,6 +98,21 @@ A backup list of apps/software to not forget...
 - [virtualbox]()
 - [bun]()
 - [nodejs]()
+- [npm]()
+- [cargo]()
+- [conan]()
+- [chezmoi]()
+- [podman]()
+- [docusaurus]()
+- [gatsby]()
+- [micro]()
+- [scoop]()
+- [deno]()
+- [Dotnet]()
+- [gnupg]()
+- [nuget]()
+- [https://pi.dev/]()
+- [quarkus]()
 
 ## Creative
 
