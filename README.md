@@ -78,6 +78,11 @@ A backup list of apps/software to not forget...
 - [cloc]()
 - [CPUZ]()
 - [HWiNFO]()
+- [scoop]()
+- [minio]()
+- [minio-client]()
+- [powershell]()
+- [nushell]()
 
 ## Creative
 
