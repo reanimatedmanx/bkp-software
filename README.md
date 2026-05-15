@@ -17,7 +17,7 @@ A backup list of apps/software to not forget...
 - [Unlicense]()
 - [Rawtherapee]()
 - [krokiet]()
-- 
+- [kopia]()
 
 ## Password & Secret Management
 
@@ -51,6 +51,7 @@ A backup list of apps/software to not forget...
 
 ## Development & Debugging
 
+- [Eclipse IDE]()
 - [Gradle]()
 - [Foocus]()
 - [Android Studio]()
@@ -67,7 +68,12 @@ A backup list of apps/software to not forget...
 - [Electron]()
 - [x64dbg]()
 - [UniExtract]()
-- [GitHub / GH CLI]
+- [winres]()
+- [git](https://git-scm.com/)
+- [`gh` GitHub CLI](https://cli.github.com/)
+- [`tea` Gitea CLI](https://gitea.com/gitea/tea)
+- [GitHub Desktop](https://desktop.github.com/download/)
+- [Git Fork](https://git-fork.com/)
 - [nvim]()
 - [CMake]()
 - [PE Bear]()
@@ -83,6 +89,7 @@ A backup list of apps/software to not forget...
 - [minio-client]()
 - [powershell]()
 - [nushell]()
+- [fvm](https://fvm.app/)
 
 ## Creative
 
