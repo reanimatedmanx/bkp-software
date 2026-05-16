@@ -142,6 +142,10 @@ A backup list of apps/software to not forget...
 - [hoppscotch]()
 - [wireshark]()
 - [renderdoc]()
+- [cpuz]()
+- [x64dbg]()
+- [nvm]()
+- [fnm]()
 
 ### Apache Commons & General Utilities
 - [asm](https://github.com/eclipse-asm/ASM) *(Bytecode manipulation)*
@@ -358,6 +362,8 @@ A backup list of apps/software to not forget...
 - [vray]()
 - [davinci resolve]()
 - [premiere]()
+- [ableton]()
+- [reaper]()
 
 ## Game Engines
 
@@ -368,6 +374,9 @@ A backup list of apps/software to not forget...
 
 - [Playnite]()
 - [Winamp]()
+- [steam]()
+- [lutris]()
+- [moldsign]()
 
 ## Drivers / Special
 
