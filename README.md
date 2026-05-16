@@ -321,6 +321,7 @@ A backup list of apps/software to not forget...
 - [Gaea]()
 - [FSpy]()
 - [Krita AI Diffusion Plugin]()
+- [Inkscape]()
 
 ## Game Engines
 
