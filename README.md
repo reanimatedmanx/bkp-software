@@ -335,6 +335,7 @@ A backup list of apps/software to not forget...
 - [FSpy]()
 - [Krita AI Diffusion Plugin]()
 - [Inkscape]()
+- [pureref]()
 
 ## Game Engines
 
