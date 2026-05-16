@@ -32,6 +32,7 @@ A backup list of apps/software to not forget...
 - [Vault]()
 - [1Password]()
 - [KeePassXC]()
+- [kleopatra]()
 
 ## AI / Assistents / Automation
 
@@ -397,6 +398,7 @@ A backup list of apps/software to not forget...
 
 - [Telegram]()
 - [Discord]()
+- [Mattermost]()
 
 ## Drivers / Special
 
