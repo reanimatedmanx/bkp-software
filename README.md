@@ -113,6 +113,7 @@ A backup list of apps/software to not forget...
 - [nuget]()
 - [https://pi.dev/]()
 - [quarkus]()
+- [graphviz]()
 
 ### Apache Commons & General Utilities
 - [asm](https://github.com/eclipse-asm/ASM) *(Bytecode manipulation)*
@@ -311,6 +312,7 @@ A backup list of apps/software to not forget...
 - [Adobe / Photoshop]()
 - [Pxiologic / ZBrush]()
 - [Lightroom]()
+- [Darktable]()
 - [Gaea]()
 - [FSpy]()
 - [Krita AI Diffusion Plugin]()
