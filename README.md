@@ -114,6 +114,7 @@ A backup list of apps/software to not forget...
 - [https://pi.dev/]()
 - [quarkus]()
 - [graphviz]()
+- [hoppscotch]()
 
 ### Apache Commons & General Utilities
 - [asm](https://github.com/eclipse-asm/ASM) *(Bytecode manipulation)*
@@ -163,6 +164,7 @@ A backup list of apps/software to not forget...
 - [rhino](https://github.com/mozilla/rhino) *(JavaScript engine)*
 
 ### Maven Namespace Directories (Group IDs)
+
 - [biz](https://github.com/bndtools/bnd) *(e.g., biz.aQute.bnd)*
 - [cc](https://github.com/search?q=topic:cc+java) *(Various, e.g., cc.plural)*
 - [netty](https://github.com/netty/netty) *(e.g., io.netty)*
@@ -171,6 +173,7 @@ A backup list of apps/software to not forget...
 - [aws-sdk-java-v2](https://github.com/aws/aws-sdk-java-v2) *(e.g., software.amazon.awssdk)*
 
 ## VSCode / Cursor Extensions
+
 - [DotENV](https://github.com/mikestead/vscode-dotenv)
 - [Terraform](https://github.com/4ops/vscode-language-terraform)
 - [Better Comments](https://github.com/aaron-bond/better-comments)
@@ -292,12 +295,14 @@ A backup list of apps/software to not forget...
 - [vscode-pdf](https://github.com/tomoki1207/vscode-pdfviewer)
 
 ## Themes
+
 - [Andromeda](https://github.com/EliverLara/Andromeda)
 - [One Dark Pro Monokai Darker Theme](https://github.com/eserozvataf/vscode-one-dark-pro-monokai-darker)
 - [Material Dark](https://github.com/romanrei/material-dark-vscode)
 - [GitHub Theme](https://github.com/primer/github-vscode-theme)
 
 ## Icons
+
 - [Chalice Icon Theme](https://github.com/artlaman/chalice-icon-theme)
 - [Catppuccin Icons for VSCode:](https://github.com/catppuccin/vscode-icons)
 - [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme)
