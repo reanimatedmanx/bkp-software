@@ -41,6 +41,7 @@ A backup list of apps/software to not forget...
 
 - [sure]()
 - [libre office]()
+- [msoffice]()
 
 ## Programming Languages
 
