@@ -35,6 +35,7 @@ A backup list of apps/software to not forget...
 ## Office & Life 
 
 - [sure]()
+- [libre office]()
 
 ## Programming Languages
 
