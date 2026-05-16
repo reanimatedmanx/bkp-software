@@ -23,6 +23,7 @@ A backup list of apps/software to not forget...
 - [krokiet]()
 - [kopia]()
 - [windirstat]()
+- [qbittorrent]()
 
 ## Password & Secret Management
 
@@ -107,12 +108,19 @@ A backup list of apps/software to not forget...
 - [scoop]()
 - [minio]()
 - [minio-client]()
+- [obs-studio]()
 - [powershell]()
 - [nushell]()
 - [fvm](https://fvm.app/)
 - [virtualbox]()
+- [PowerToys]()
 - [bun]()
 - [nodejs]()
+- [MariaDB]()
+- [Microsoft SQL Server]()
+- [Microsoft Visual Studio]()
+- [Mozilla Thunderbird]()
+- [Mozilla Firefox]()
 - [npm]()
 - [cargo]()
 - [conan]()
@@ -340,6 +348,12 @@ A backup list of apps/software to not forget...
 - [Krita AI Diffusion Plugin]()
 - [Inkscape]()
 - [pureref]()
+- [RawTherapee]()
+- [ffmpeg]()
+- [vlc]()
+- [arnold renderer]()
+- [corona renderer]()
+- [vray]()
 
 ## Game Engines
 
