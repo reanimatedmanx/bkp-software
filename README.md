@@ -5,6 +5,10 @@ A backup list of apps/software to not forget...
 ## OS / Containers
 
 - [NixOS]()
+- [NobaraOS]()
+- [CachyOS]()
+- [RedoxOS]()
+- [Win10-11]()
 
 ## Internet Browsing
 
@@ -42,6 +46,7 @@ A backup list of apps/software to not forget...
 - [Zig]()
 - [Rust]()
 - [Python]()
+- [FASM](https://flatassembler.net)
 
 ## Libs / Frameworks
 
