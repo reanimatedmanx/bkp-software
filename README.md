@@ -140,8 +140,6 @@ A backup list of apps/software to not forget...
 - [displaytag](https://github.com/displaytag/displaytag) *(JSP tag library)*
 - [dom4j](https://github.com/dom4j/dom4j) *(XML framework)*
 - [jsptags](https://github.com/search?q=jsptags) *(JSP tags collection)*
-- [oro](https://github.com/apache/jakarta-oro) *(Deprecated Perl5 regex)*
-- [regexp](https://github.com/apache/jakarta-regexp) *(Deprecated regex)*
 - [sslext](https://github.com/apache/struts-sslext) *(Struts SSL extension)*
 - [taglibs](https://github.com/apache/taglibs) *(JSP standard tag library)*
 - [xalan](https://github.com/apache/xalan-java) *(XSLT processor)*
@@ -157,7 +155,6 @@ A backup list of apps/software to not forget...
 - [jakarta](https://github.com/jakartaee) *(Jakarta EE namespace)*
 - [javax](https://github.com/javaee) *(Legacy Java EE namespace)*
 - [log4j](https://github.com/apache/logging-log4j2) *(Logging framework)*
-- [logkit](https://github.com/apache/avalon-logkit) *(Deprecated logging framework)*
 
 ### Databases, Testing & Scripting
 - [junit](https://github.com/junit-team/junit4) *(Unit testing)*
