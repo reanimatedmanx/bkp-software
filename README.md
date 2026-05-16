@@ -24,6 +24,8 @@ A backup list of apps/software to not forget...
 - [kopia]()
 - [windirstat]()
 - [qbittorrent]()
+- [obsidian]()
+- [appflowy]()
 
 ## Password & Secret Management
 
@@ -354,6 +356,8 @@ A backup list of apps/software to not forget...
 - [arnold renderer]()
 - [corona renderer]()
 - [vray]()
+- [davinci resolve]()
+- [premiere]()
 
 ## Game Engines
 
