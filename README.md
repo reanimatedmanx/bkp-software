@@ -45,6 +45,7 @@ A backup list of apps/software to not forget...
 - [sure]()
 - [libre office]()
 - [msoffice]()
+- [joplin]()
 
 ## Programming Languages
 
@@ -69,6 +70,14 @@ A backup list of apps/software to not forget...
 - [starship]()
 - [Eclipse IDE]()
 - [IntelliJ Idea]()
+- [Writerside]()
+- [RustRover]()
+- [Rider]()
+- [PyCharm]()
+- [IdeaIC]()
+- [GoLand]()
+- [Fleet]()
+- [CLion]()
 - [Datagrip]()
 - [DBeaver]()
 - [Gradle]()
@@ -104,6 +113,7 @@ A backup list of apps/software to not forget...
 - [micro]()
 - [Graal VM]()
 - [Umodel]()
+- [uexplorer]()
 - [cloc]()
 - [CPUZ]()
 - [HWiNFO]()
@@ -146,6 +156,8 @@ A backup list of apps/software to not forget...
 - [x64dbg]()
 - [nvm]()
 - [fnm]()
+- [astro]()
+- [awesomnium]()
 
 ### Apache Commons & General Utilities
 - [asm](https://github.com/eclipse-asm/ASM) *(Bytecode manipulation)*
@@ -345,6 +357,8 @@ A backup list of apps/software to not forget...
 - [DrawIO]()
 - [ComfyUI]()
 - [Penpot]()
+- [figma]()
+- [Blender]()
 - [Adobe / Photoshop]()
 - [Pxiologic / ZBrush]()
 - [Lightroom]()
@@ -364,6 +378,7 @@ A backup list of apps/software to not forget...
 - [premiere]()
 - [ableton]()
 - [reaper]()
+- [Gimp]()
 
 ## Game Engines
 
@@ -377,6 +392,11 @@ A backup list of apps/software to not forget...
 - [steam]()
 - [lutris]()
 - [moldsign]()
+
+## Communication
+
+- [Telegram]()
+- [Discord]()
 
 ## Drivers / Special
 
