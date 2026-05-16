@@ -126,6 +126,7 @@ A backup list of apps/software to not forget...
 - [quarkus]()
 - [graphviz]()
 - [hoppscotch]()
+- [wireshark]()
 
 ### Apache Commons & General Utilities
 - [asm](https://github.com/eclipse-asm/ASM) *(Bytecode manipulation)*
