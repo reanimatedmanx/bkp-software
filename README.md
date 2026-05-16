@@ -357,3 +357,5 @@ A backup list of apps/software to not forget...
 - [AmneziaVPN]()
 - [uwp]()
 - [fail2ban]()
+- [openvpnconnect]()
+- [pritunl]()
