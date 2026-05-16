@@ -372,6 +372,7 @@ A backup list of apps/software to not forget...
 - [Darktable]()
 - [Gaea]()
 - [FSpy]()
+- [Krita]()
 - [Krita AI Diffusion Plugin]()
 - [Inkscape]()
 - [pureref]()
