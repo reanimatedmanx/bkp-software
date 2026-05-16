@@ -22,6 +22,7 @@ A backup list of apps/software to not forget...
 - [Rawtherapee]()
 - [krokiet]()
 - [kopia]()
+- [windirstat]()
 
 ## Password & Secret Management
 
