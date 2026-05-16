@@ -76,6 +76,7 @@ A backup list of apps/software to not forget...
 - [DIE]()
 - [MMEX]()
 - [Notepad++]()
+- [neovim]()
 - [ScyllaHide]()
 - [Themidie]()
 - [Ghidra]()
