@@ -165,6 +165,10 @@ A backup list of apps/software to not forget...
 - [fnm]()
 - [astro]()
 - [awesomnium]()
+- [SysInternals]()
+- [Step Recorder]()
+- [HWiNFO64]()
+
 
 ### Apache Commons & General Utilities
 - [asm](https://github.com/eclipse-asm/ASM) *(Bytecode manipulation)*
